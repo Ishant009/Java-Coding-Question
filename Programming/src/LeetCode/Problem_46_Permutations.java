@@ -1,3 +1,8 @@
+package LeetCode;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class Problem_46_Permutations {
 
     public List<List<Integer>> permute(int[] nums) {
