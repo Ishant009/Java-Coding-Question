@@ -1,6 +1,6 @@
 package Programs;
 
-public class P2_Palindrome_String {
+public class P2_PalindromeString {
 
     public boolean palindrome(String str){
         int i=0;
@@ -21,7 +21,7 @@ public class P2_Palindrome_String {
         return false;
     }
     public static void main(String[] args){
-        P2_Palindrome_String p2 = new P2_Palindrome_String();
+        P2_PalindromeString p2 = new P2_PalindromeString();
         String str= "abccba";
         char[] chars= str.toCharArray();
         boolean bl=p2.palindrome1(chars,0,str.length()-1);

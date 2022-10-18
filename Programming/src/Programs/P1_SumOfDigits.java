@@ -1,5 +1,5 @@
 package Programs;
-public class P1_Sum_Of_Digits {
+public class P1_SumOfDigits {
 
     public int sumOfDigits(int number){
         int sum=0;
@@ -23,7 +23,7 @@ public class P1_Sum_Of_Digits {
         return sum;
     }
     public static void main(String[] args){
-        P1_Sum_Of_Digits p1= new P1_Sum_Of_Digits();
+        P1_SumOfDigits p1= new P1_SumOfDigits();
         int sum=p1.sodString("250");
         System.out.println(sum);
     }

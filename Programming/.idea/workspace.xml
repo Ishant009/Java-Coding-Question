@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8349a5c1-6a07-4783-a0fe-a8284ffafa02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programs/P2_Palindrome_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/P3_SumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/P4_MaxMinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/P5_CountingFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/P6_LargestContigousSubarry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/P7_ReverseWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programming/Programs/P1_Sum_Of_Digits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming/Programs/P1_Sum_Of_Digits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programs/P1_Sum_Of_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/P1_Sum_Of_Digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming/Programs/P1_Sum_Of_Digits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming/Programs/P2_Palindrome_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programs/P1_Sum_Of_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/P1_SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programs/P2_Palindrome_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/P2_PalindromeString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,16 +39,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Ishant27/Desktop/PL/Competitive Programming/Java-Coding-Question/Programming"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ishant27/Desktop/PL/Competitive Programming/Java-Coding-Question/Programming&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.P2_Palindrome_String">
-    <configuration name="P1_Sum_Of_Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.P1_Sum_Of_Digits" />
+}</component>
+  <component name="RunManager" selected="Application.P7_ReverseWords">
+    <configuration name="P3_SumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.P3_SumOfArray" />
       <module name="Programming" />
       <extension name="coverage">
         <pattern>
@@ -54,8 +60,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2_Palindrome_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.P2_Palindrome_String" />
+    <configuration name="P4_MaxMinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.P4_MaxMinArray" />
+      <module name="Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P5_CountingFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.P5_CountingFrequency" />
+      <module name="Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P6_LargestContigousSubarry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.P6_LargestContigousSubarry" />
+      <module name="Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P7_ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.P7_ReverseWords" />
       <module name="Programming" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P2_Palindrome_String" />
-        <item itemvalue="Application.P1_Sum_Of_Digits" />
+        <item itemvalue="Application.P7_ReverseWords" />
+        <item itemvalue="Application.P6_LargestContigousSubarry" />
+        <item itemvalue="Application.P5_CountingFrequency" />
+        <item itemvalue="Application.P4_MaxMinArray" />
+        <item itemvalue="Application.P3_SumOfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +148,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Programs/P1_Sum_Of_Digits.java</url>
+          <url>file://$PROJECT_DIR$/src/Programs/P1_SumOfDigits.java</url>
           <line>1</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
