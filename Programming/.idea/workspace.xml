@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8349a5c1-6a07-4783-a0fe-a8284ffafa02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programs/P10_ClosestStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programs/P11_KthBitIsSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programs/P12_PowerOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programs/P13_PowerSetUsingBitwise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programs/P8_LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programs/P9_RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm_GFG/Recursion/P1_PrintNto1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programming/Programs/P7_ReverseWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming/Programs/P7_ReverseWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programs/P11_KthBitIsSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm_GFG/BitManupulation/P1_KthBitIsSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programs/P12_PowerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm_GFG/BitManupulation/P2_PowerOfTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programs/P13_PowerSetUsingBitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructureAndAlgorithm_GFG/BitManupulation/P3_PowerSetUsingBitwise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +41,52 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Ishant27/Desktop/PL/Competitive Programming/Java-Coding-Question/Programming&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P13_PowerSetUsingBitwise">
-    <configuration name="P10_ClosestStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.DataStructureAndAlgorithm_GFG.Recursion.BitManupulation.P13_PowerSetUsingBitwise">
+    <configuration name="DataStructureAndAlgorithm_GFG.Recursion.BitManupulation.P13_PowerSetUsingBitwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructureAndAlgorithm_GFG.Recursion.BitManupulation.P13_PowerSetUsingBitwise" />
+      <module name="Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructureAndAlgorithm_GFG.Recursion.BitManupulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1_KthBitIsSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructureAndAlgorithm_GFG.BitManupulation.P1_KthBitIsSet" />
+      <module name="Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructureAndAlgorithm_GFG.Recursion.BitManupulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P2_PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructureAndAlgorithm_GFG.BitManupulation.P2_PowerOfTwo" />
+      <module name="Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructureAndAlgorithm_GFG.Recursion.BitManupulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programs.P10_ClosestStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programs.P10_ClosestStrings" />
       <module name="Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.*" />
+          <option name="PATTERN" value="DataStructureAndAlgorithm_GFG.Recursion.BitManupulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,51 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P11_KthBitIsSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.P11_KthBitIsSet" />
-      <module name="Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P12_PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.P12_PowerOfTwo" />
-      <module name="Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P13_PowerSetUsingBitwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.P13_PowerSetUsingBitwise" />
-      <module name="Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P9_RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Programs.P9_RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programs.P9_RomanToInteger" />
       <module name="Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.*" />
+          <option name="PATTERN" value="DataStructureAndAlgorithm_GFG.Recursion.BitManupulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P13_PowerSetUsingBitwise" />
-        <item itemvalue="Application.P12_PowerOfTwo" />
-        <item itemvalue="Application.P11_KthBitIsSet" />
-        <item itemvalue="Application.P10_ClosestStrings" />
-        <item itemvalue="Application.P9_RomanToInteger" />
+        <item itemvalue="Application.DataStructureAndAlgorithm_GFG.Recursion.BitManupulation.P13_PowerSetUsingBitwise" />
+        <item itemvalue="Application.P2_PowerOfTwo" />
+        <item itemvalue="Application.P1_KthBitIsSet" />
+        <item itemvalue="Application.Programs.P10_ClosestStrings" />
+        <item itemvalue="Application.Programs.P9_RomanToInteger" />
       </list>
     </recent_temporary>
   </component>

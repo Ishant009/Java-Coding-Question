@@ -1,6 +1,6 @@
-package Programs;
+package DataStructureAndAlgorithm_GFG.BitManupulation;
 
-public class P12_PowerOfTwo {
+public class P2_PowerOfTwo {
 
     public boolean powerOfTwo(int num){
         int n=2;
@@ -15,7 +15,7 @@ public class P12_PowerOfTwo {
         return (num & num-1)==0;
     }
     public static void main(String[] args){
-        P12_PowerOfTwo p12= new P12_PowerOfTwo();
+        P2_PowerOfTwo p12= new P2_PowerOfTwo();
         boolean res=p12.powerOfTwoEfficient(8);
         System.out.println(res);
     }

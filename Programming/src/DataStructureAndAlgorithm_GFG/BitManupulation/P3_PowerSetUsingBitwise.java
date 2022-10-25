@@ -1,9 +1,9 @@
-package Programs;
+package DataStructureAndAlgorithm_GFG.BitManupulation;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class P13_PowerSetUsingBitwise {
+public class P3_PowerSetUsingBitwise {
 
     public void powerSetUsingBitswie(String str) {
         System.out.println(str);
@@ -39,7 +39,7 @@ public class P13_PowerSetUsingBitwise {
         System.out.println(res);
     }
     public static void main(String[] args) {
-        P13_PowerSetUsingBitwise p13 = new P13_PowerSetUsingBitwise();
+        P3_PowerSetUsingBitwise p13 = new P3_PowerSetUsingBitwise();
         p13.powerSetUsingBitswieSoln("abc");
     }
 }
