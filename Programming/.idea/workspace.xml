@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8349a5c1-6a07-4783-a0fe-a8284ffafa02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programs/P3_SumOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programs/P4_MaxMinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programs/P5_CountingFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programs/P6_LargestContigousSubarry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programs/P7_ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/P10_ClosestStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/P11_KthBitIsSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/P12_PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/P13_PowerSetUsingBitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/P8_LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/P9_RomanToInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programming/Programs/P1_Sum_Of_Digits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programming/Programs/P2_Palindrome_String.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programs/P1_Sum_Of_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/P1_SumOfDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programs/P2_Palindrome_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/P2_PalindromeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming/Programs/P7_ReverseWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming/Programs/P7_ReverseWords.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +44,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Ishant27/Desktop/PL/Competitive Programming/Java-Coding-Question/Programming&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P7_ReverseWords">
-    <configuration name="P3_SumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.P3_SumOfArray" />
+  <component name="RunManager" selected="Application.P13_PowerSetUsingBitwise">
+    <configuration name="P10_ClosestStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.P10_ClosestStrings" />
       <module name="Programming" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P4_MaxMinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.P4_MaxMinArray" />
+    <configuration name="P11_KthBitIsSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.P11_KthBitIsSet" />
       <module name="Programming" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P5_CountingFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.P5_CountingFrequency" />
+    <configuration name="P12_PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.P12_PowerOfTwo" />
       <module name="Programming" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P6_LargestContigousSubarry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.P6_LargestContigousSubarry" />
+    <configuration name="P13_PowerSetUsingBitwise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.P13_PowerSetUsingBitwise" />
       <module name="Programming" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P7_ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.P7_ReverseWords" />
+    <configuration name="P9_RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.P9_RomanToInteger" />
       <module name="Programming" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P7_ReverseWords" />
-        <item itemvalue="Application.P6_LargestContigousSubarry" />
-        <item itemvalue="Application.P5_CountingFrequency" />
-        <item itemvalue="Application.P4_MaxMinArray" />
-        <item itemvalue="Application.P3_SumOfArray" />
+        <item itemvalue="Application.P13_PowerSetUsingBitwise" />
+        <item itemvalue="Application.P12_PowerOfTwo" />
+        <item itemvalue="Application.P11_KthBitIsSet" />
+        <item itemvalue="Application.P10_ClosestStrings" />
+        <item itemvalue="Application.P9_RomanToInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +149,11 @@
           <url>file://$PROJECT_DIR$/src/Programs/P1_SumOfDigits.java</url>
           <line>1</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Programs/P8_LongestCommonPrefix.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
