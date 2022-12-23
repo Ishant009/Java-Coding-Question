@@ -9,6 +9,7 @@ public class FP01_Structured {
     private static void printAllNumbersInListStructred(List<Integer> numbers) {
         for (int num : numbers) {
             System.out.println(num);
+
         }
     }
 }

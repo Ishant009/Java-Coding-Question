@@ -1,5 +1,8 @@
 import java.util.List;
-
+/*
+*  Use of stream, map, filter, foreach.
+*
+* */
 public class FP01_Functional {
 
     public static void main(String[] args) {

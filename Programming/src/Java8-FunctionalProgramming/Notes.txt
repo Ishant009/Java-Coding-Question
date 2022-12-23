@@ -1,0 +1,45 @@
+Functional Programming :- what to do
+Stream -> Sequnce of elements and what should be done for each element
+
+Methods--
+filter  -> Allow to specify condition, if true only those value go through which satisfy condition.
+
+map     -> Convert/map one value to another.
+
+forEach -> To consume/use each value.
+           numbers.stream().filter(ClassName::methodname).forEach(System.out::println);
+
+
+Reduce  -> Perform Reduction on values
+           numbers.stream().reduce(0,(x,y)->x+y);
+           numbers.stream().map(x->x*x*x).reduce(0,Integer::sum);
+           numbers.stream().filter(x->x%2!=0).reduce(0,Integer::sum);
+
+Distinct -> Used to get Unique values.
+            numbers.stream().distinct().forEach(System.out::println);
+
+Sorted  -> Used to sort the list.
+           numbers.stream().sorted().forEach(System.out::println);
+
+Comperator -> Comparator interface is used to order the objects of user-defined classes.
+              courses.stream().sorted(Comparator.reverseOrder()).forEach(System.out::println);
+              courses.stream().sorted(Comparator.comparing(str->str.length())).forEach(System.out::println);
+
+Collect -> Used to generate list from another list in stream.(may not be list)
+            numbers.stream().map(number->number*number).collect(Collectors.toList());
+
+FunctionalInterfaces :-
+
+Predicate -> Represent a predicate (boolean-valued function) of one argument.
+            Filter uses predicate(condition)
+            Predicate<Integer> isEvenPredicate = x -> x % 2 == 0;
+
+Function -> Represent a function that accept one argument and produce a result.
+            Map uses function.
+            Function<Integer, Integer> squareFunction = x -> x * x;
+
+Consumer -> Represent an operation that accepts a single input argument and return no result.
+            forEach uses consumer.
+            Consumer<Integer> println = System.out::println;
+
+Behind each lambda function there is a functional interface.
