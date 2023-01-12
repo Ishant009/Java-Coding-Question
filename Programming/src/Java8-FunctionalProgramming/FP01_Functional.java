@@ -1,17 +1,18 @@
 import java.util.List;
+
 /*
-*  Use of stream, map, filter, foreach.
-*
-* */
+ *  Use of stream, map, filter, foreach.
+ *
+ * */
 public class FP01_Functional {
 
     public static void main(String[] args) {
 
 //        printAllNumbersInListFunctional(List.of(12, 9, 13, 4, 6, 2, 4, 12, 15));
-//       printEvenNumbersInListFunctional(List.of(12, 9, 13, 4, 6, 2, 4, 12, 15));
+//        printEvenNumbersInListFunctional(List.of(12, 9, 13, 4, 6, 2, 4, 12, 15));
 //        printStringContainSpringInListFunctional(List.of("Spring", "Spring Boot", "Microservice", "AWS", "PCP", "Azura", "Docker", "Kubernetes"));
 //        printfourLetterStrInListFunctional(List.of("Spring", "Spring Boot", "Microservice", "AWS", "PCP", "Azura", "Docker", "Kubernetes"));
-        printcountStringInListFunctional(List.of("Spring", "Spring Boot", "Microservice", "AWS", "PCP", "Azura", "Docker", "Kubernetes"));
+        printcountStringInListFunctional(List.of("Spring", "Spring Boot", "Microservice", "AWS", "PCP", "Azura", "Docker", "Kubernetes" ));
 
     }
 
@@ -42,7 +43,7 @@ public class FP01_Functional {
 
     private static void printStringContainSpringInListFunctional(List<String> strs) {
 
-        strs.stream().filter(str -> str.contains("Spring")).forEach(System.out::println);
+        strs.stream().filter(str -> str.contains("Spring" )).forEach(System.out::println);
     }
 
     private static void printfourLetterStrInListFunctional(List<String> strs) {
